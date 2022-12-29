@@ -1,0 +1,7 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+.nav-link:hover{
+text-transform: uppercase;
+}
+
