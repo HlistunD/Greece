@@ -4,4 +4,11 @@ body{
 .nav-link:hover{
 text-transform: uppercase;
 }
+.letterSize h5{
+    font-size: 20px;
+}
+.letterSize p{
+    font-size: 12px;
+}
+
 
